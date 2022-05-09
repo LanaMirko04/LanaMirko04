@@ -4,7 +4,7 @@ I'm an IT student from Mantua, Italy 🇮🇹
 
  - 🔭 I’m currently working on [MagiCam](https://github.com/ItalianDudes/MagiCam) and [Game_Visualizer](https://github.com/ItalianDudes/Game_Visualizer)
 
- - 🌱 I'm currently learning [OpenCV](https://opencv.org/) and Java.
+ - 🌱 I'm currently learning Java.
  
  - ⚡ In my free time, I usually work on my personal projects
  
