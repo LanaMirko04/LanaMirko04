@@ -2,9 +2,8 @@
 
 I'm an IT student from Mantua, Italy 🇮🇹
 
- - 🔭 I’m currently working on [MagiCam](https://github.com/ItalianDudes/MagiCam) and [Game_Visualizer](https://github.com/ItalianDudes/Game_Visualizer)
-
- - 🌱 I'm currently learning Java.
+ - 🔭 I’m currently working on my skills
+<!-- - 🌱 I'm currently learning  <something>. -->
  
  - ⚡ In my free time, I usually work on my personal projects
  
@@ -16,4 +15,5 @@ I'm an IT student from Mantua, Italy 🇮🇹
 ![](https://github-readme-stats.vercel.app/api?username=LanaMirko04&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LanaMirko04&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LanaMirko04&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
